@@ -1,0 +1,2 @@
+# prettyall-birthday-bot
+プリティーシリーズのキャラクタの誕生日をお知らせするbotのコード
